@@ -2,21 +2,17 @@
 # Hi there 👋, I'm Monir
 ## Front-End Developer
 
-Hello there, I'm a Professional Web-Developer. Greetings! I have 3+ years of experience in Web Design and Development, WordPress and Building E-commerce websites. I can help your business boost by building stunning, customized and responsive websites, Landing Pages or Product Launch Pages. Having vast knowledge about frontend with valuable skills in WordPress Development. I also provide PSD to html, Email- Signature, Figma to HTML, PSD to WordPress conversion and design. I will use my extensive web expertise to deliver only the best and most professional work to all of my clients and always build long term work relationships
+Hello there, I'm a Professional web developer. Greetings! I have 3+ years of experience in Web Design and Development, WordPress, and Building E-commerce websites. I can help your business boost by building stunning, customized, and responsive websites, Landing Pages, or Product Launch Pages. Having vast knowledge about front-end with valuable skills in WordPress Development. I also provide PSD to HTML, Email- Signature, Figma to HTML, and PSD to WordPress conversion and design. I will use my extensive web expertise to deliver only the best and most professional work to all of my clients and always build long-term work relationships
 
-Skills: HTML / CSS/JavaScript
+Skills: HTML / CSS/ JavaScript
 
 - 🔭 I’m currently working on Creative IT Institute 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about my work 
 - 📫 How to reach me;# monir079788@gmail.com 
-## Contact me with;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/monir-0797)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-monir-67506a248//) 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100089069650072)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MdMonir21643311)  
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 # Skills;
